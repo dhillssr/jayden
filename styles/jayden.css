@@ -1,0 +1,30 @@
+/* 
+
+	Aurthor: 
+	Dwayne Hills Sr.
+	
+
+*/
+
+
+
+body {
+	background:url('../img/jaydenHero.jpg') 
+	no-repeat 
+	center center 
+	fixed;
+	background-size:cover;
+
+
+
+}
+
+#logo-wrap {
+	position:absolute;
+	width: 365px;
+	height: 117px;
+	top:30%;
+	left:65%;
+	background: #38F4FF; 
+	
+}
